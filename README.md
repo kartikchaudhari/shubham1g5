@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham1g5" alt="Shubham's github stats"/>
 </a>
 <a href="https://github.com/shubham1g5?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1g5&theme=dark/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1g5&theme=dark&hide_langs_below=1" />
 </a>
